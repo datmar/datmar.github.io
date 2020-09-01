@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Equity Portfolio Management](/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Motion Transfer Between Objects Using Pose Estimation and GAN](/)
+<img src="images/james_dance_thumbnail.png?raw=true"/>
 
 ---
 [Home Team Advantage](/pdf/sample_presentation.pdf)

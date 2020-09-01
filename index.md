@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Motion Transfer Between Objects Using Pose Estimation and GAN](/)
+[Motion Transfer Between Objects Using Pose Estimation and GAN](/sample_page.md)
 <img src="images/james_dance_thumbnail.png?raw=true"/>
 
 ---
